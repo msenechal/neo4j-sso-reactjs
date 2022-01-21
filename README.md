@@ -14,8 +14,8 @@
    ```var driver = neo4j.driver('neo4j://localhost:7687', neo4j.auth.bearer(response.idToken)) ```
 
    authConfig.js:
-   clientId => Azure client application ID
+    ```clientId => Azure client application ID
    authority => URL to the tenant 
-   redirectUri => redirect URL
+   redirectUri => redirect URL ```
 
    **Note** 

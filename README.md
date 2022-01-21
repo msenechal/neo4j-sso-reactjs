@@ -15,7 +15,9 @@
 
    authConfig.js:
     ```clientId => Azure client application ID
+    
    authority => URL to the tenant 
+   
    redirectUri => redirect URL ```
 
    **Note** 
